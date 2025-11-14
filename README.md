@@ -41,8 +41,11 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 * Location that generates the most revenue.
 * Faster transportation modes.
 * Find the routes that are slow or costly.
-# What is the average revenue per unit?
+## What is the average revenue per unit?
 ![Average revenue per unit](Avgrevperunit.jpg)
-# What is the average selling price per product type?
+## What is the average selling price per product type?
 ![Average Selling price per unit](Avgsellingprice.jpg)
+## What product type generates the most revenue?
+![Total Revenue](Totalrevenue.jpg)
+
 
