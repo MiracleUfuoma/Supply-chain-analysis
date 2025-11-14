@@ -28,18 +28,18 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 * Shipping Method Review: Evaluate Shipping Duration, Carriers, and Modes for logistical improvements.
 * Route Optimisation: Analyse transportation routes for efficiency gains.
 # Key questions answered:
-What is the average revenue per unit?
-What is the average selling price per product type?
-What products have high manufacturing costs?
-What product type generates the most revenue?
-What are the top selling SKUs according to revenue and quantity?
-Are cheaper products selling more? Are expensive ones performing poorly?
-What Supplier has consistent lead times?
-Shipping carriers that deliver the fastest.
-Identifying unreliable suppliers.
-Consumer demographic that purchase the most products.
-Location that generates the most revenue.
-Faster transportation modes.
-Find the routes that are slow or costly.
+* What is the average revenue per unit?
+* What is the average selling price per product type?
+* What products have high manufacturing costs?
+* What product type generates the most revenue?
+* What are the top selling SKUs according to revenue and quantity?
+* Are cheaper products selling more? Are expensive ones performing poorly?
+* What Supplier has consistent lead times?
+* Shipping carriers that deliver the fastest.
+* Identifying unreliable suppliers.
+* Consumer demographic that purchase the most products.
+* Location that generates the most revenue.
+* Faster transportation modes.
+* Find the routes that are slow or costly.
 # What is the average revenue per unit?
-![Average revenue per unit](images/revenue_results.png)
+![Average revenue per unit](Avgrevperunit.jpg)
