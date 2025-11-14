@@ -10,7 +10,6 @@ GROUP BY
     "Product_type"
 ORDER BY
     AverageRevenuePerUnit DESC
-![Description](Avgrevperunit.jpg)
 
 --Average selling price per product type
 SELECT
