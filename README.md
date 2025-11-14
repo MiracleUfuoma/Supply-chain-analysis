@@ -8,3 +8,24 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 # Data Collection and Analysis Steps
 ## Data Import and Preliminary Inspection:
 * Import the supply chain dataset in CSV format and perform an initial review to understand its structure and content.
+# Data Cleaning and Validation:
+* Missing Values Assessment: Identify and remediate missing data in key fields like Price, Availability, and Number of Products Sold.
+* Data Type Confirmation: Verify that each column is classified with the appropriate data type (numeric, text, etc.).
+* SKU Integrity Check: Confirm that SKU identifiers are unique and correctly aligned with their respective Product Types.
+# Products and sales performance analysis
+* Trend Analysis by Product Type:
+** Investigate patterns key areas such as Total Revenue, Average Revenue, Average Selling Price, and Average Lead Times (time from order placement to fulfillment).
+* Customer Segmentation and Sales Analysis:
+** Demographic Profiling: Analyse customer demographics to better understand the consumer base for each product type.
+# Supply Chain Analysis
+* Supply Chain Performance Evaluation:
+** Lead Time Scrutiny: Examine both Lead Times and Shipping Lead Time for potential delays.
+** Supplier Assessment: Evaluate suppliers based on Lead Times, Defect Rates, and Inspection Outcomes.
+# Cost Management Analysis:
+* Profitability Review: Contrast Costs with Revenue to assess overall profitability.
+* Expense Analysis: Scrutinise Shipping and Manufacturing Costs to identify reduction opportunities.
+# Logistics Optimisation Study:
+* Shipping Method Review: Evaluate Shipping Duration, Carriers, and Modes for logistical improvements.
+* Route Optimisation: Analyse transportation routes for efficiency gains.
+# Key Findings and Suggestions:
+Based on the analysis, suggest improvements or strategies for the supply chain.
