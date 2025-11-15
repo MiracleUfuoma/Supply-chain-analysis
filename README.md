@@ -59,5 +59,4 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ![Routes](fastestroute.jpg)
 ## What are the top selling SKUs according to revenue and quantity?
 ![SKU](SKUunits.jpg)
-## Identifying unreliable suppliers.
-![Suppliers](fast supplier.jpg)
+
