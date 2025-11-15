@@ -47,5 +47,7 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ![Average Selling price per unit](Avgsellingprice.jpg)
 ## What product type generates the most revenue?
 ![Total Revenue](Totalrevenue.jpg)
-
-
+## Consumer demographic that purchase the most products.
+![Customer Revenue](Customerrev.jpg)
+## Faster transportation modes.
+![Transport Modes](Customerrev.jpg)
