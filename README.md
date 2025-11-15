@@ -59,4 +59,10 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ![Routes](fastestroute.jpg)
 ## What are the top selling SKUs according to revenue and quantity?
 ![SKU](SKUunits.jpg)
-
+# Recommendations
+* Focus marketing efforts on top-performing product categories to maximize ROI.
+* Introduce promotions for low-performing products to improve turnover.
+* Reward repeat customers through loyalty programs to increase retention.
+* Optimize routes with the highest shipping time or cost.
+* Negotiate better rates with carriers showing high delays or high cost per shipment.
+* Shift volume to transportation modes with faster delivery at comparable cost.
