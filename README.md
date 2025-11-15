@@ -52,5 +52,7 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ## Faster transportation modes.
 ![Transport Modes](Transportmode.jpg)
 ## Location that generates the most revenue.
-![Location Revenue](Transportmode.jpg)
+![Location Revenue](locationrev.jpg)
 ## What Supplier has consistent lead times?
+![Lead time](locationrev.jpg)
+## Find the routes that are slow or costly.
