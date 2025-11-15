@@ -56,7 +56,7 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ## What Supplier has consistent lead times?
 ![Lead time](Supplierleadtime.jpg)
 ## Find the routes that are slow or costly.
-![Routes](fastest route.jpg)
+![Routes](fastestroute.jpg)
 ## What are the top selling SKUs according to revenue and quantity?
 ![SKU](SKUunits.jpg)
 ## Identifying unreliable suppliers.
