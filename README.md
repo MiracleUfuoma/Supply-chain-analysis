@@ -60,4 +60,4 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ## What are the top selling SKUs according to revenue and quantity?
 ![SKU](SKUunits.jpg)
 ## Identifying unreliable suppliers.
-![Suppliers](SKUunits.jpg)
+![Suppliers](fast supplier.jpg)
