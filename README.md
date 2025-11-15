@@ -50,4 +50,7 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ## Consumer demographic that purchase the most products.
 ![Customer Revenue](Customerrev.jpg)
 ## Faster transportation modes.
-![Transport Modes](Customerrev.jpg)
+![Transport Modes](Transportmode.jpg)
+## Location that generates the most revenue.
+![Location Revenue](Transportmode.jpg)
+## What Supplier has consistent lead times?
