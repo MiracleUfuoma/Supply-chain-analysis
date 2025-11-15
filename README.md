@@ -54,5 +54,7 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ## Location that generates the most revenue.
 ![Location Revenue](locationrev.jpg)
 ## What Supplier has consistent lead times?
-![Lead time](locationrev.jpg)
+![Lead time](Supplierleadtime.jpg)
 ## Find the routes that are slow or costly.
+![Routes](Supplierleadtime.jpg)
+## What are the top selling SKUs according to revenue and quantity?
