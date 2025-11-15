@@ -58,5 +58,6 @@ This analysis was developed as a hands-on learning project to demonstrate techni
 ## Find the routes that are slow or costly.
 ![Routes](fastest route.jpg)
 ## What are the top selling SKUs according to revenue and quantity?
-![SKU](fastest route.jpg)
+![SKU](SKUunits.jpg)
 ## Identifying unreliable suppliers.
+![Suppliers](SKUunits.jpg)
